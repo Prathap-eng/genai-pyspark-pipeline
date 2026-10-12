@@ -159,6 +159,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Project-generated data and local environment files
+data/raw/*
+data/processed/*
+!.gitkeep
+.env.*
+
 # Spyder project settings
 .spyderproject
 .spyproject

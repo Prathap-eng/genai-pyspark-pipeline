@@ -1,0 +1,9 @@
+Faker>=24.0,<40.0
+numpy>=1.26,<3.0
+pandas>=2.1,<4.0
+pyarrow>=14.0,<25.0
+pyspark>=3.5,<5.0
+tqdm>=4.66,<5.0
+
+# Optional, for working with notebooks/
+jupyter>=1.0,<2.0
